@@ -1,0 +1,6 @@
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio4\Ejercicio4\LibCerveceria\bin\Debug\LibCerveceria.dll
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio4\Ejercicio4\LibCerveceria\bin\Debug\LibCerveceria.pdb
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio4\Ejercicio4\LibCerveceria\obj\Debug\LibCerveceria.csproj.AssemblyReference.cache
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio4\Ejercicio4\LibCerveceria\obj\Debug\LibCerveceria.csproj.CoreCompileInputs.cache
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio4\Ejercicio4\LibCerveceria\obj\Debug\LibCerveceria.dll
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio4\Ejercicio4\LibCerveceria\obj\Debug\LibCerveceria.pdb
